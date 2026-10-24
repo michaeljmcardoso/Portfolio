@@ -23,9 +23,7 @@ Hoje, busco aprofundar competências em Ciência de Dados e Inteligência Artifi
 
 **Background in:** Python, SQL, Inteligência Artificial, Data Storytelling, Javascript, HTML5, CSS3.
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/)
-* [Medium](https://medium.com/@mjcursodatascience)
+**Links:** [LinkedIn](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/) | [Medium](https://medium.com/@mjcursodatascience)
 
 
 ## Projetos/Projects:
