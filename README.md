@@ -19,7 +19,7 @@ Minha base técnica inclui Python, SQL, JavaScript, HTML5, CSS3, Inteligência A
 
 Hoje, busco aprofundar competências em Ciência de Dados e Inteligência Artificial Aplicada para continuar unindo rigor antropológico e soluções tecnológicas a serviço de políticas públicas mais eficientes e orientadas por dados. Meu interesse é atuar em projetos que exijam tanto sensibilidade cultural quanto capacidade técnica — seja na gestão de processos, no desenvolvimento de ferramentas de pesquisa ou na análise de dados para a garantia de direitos.
 
-**Portfólio:** https://github.com/michaeljmcardoso/Portfolio-de-Projetos_DataScience.git
+[Repositórios](https://github.com/michaeljmcardoso/Portfolio.git)
 
 **Idiomas:** Português (nativo) | Francês (fluente) | Inglês (leitura técnica)
 
