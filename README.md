@@ -32,7 +32,10 @@ Hoje, busco aprofundar competências em Ciência de Dados e Inteligência Artifi
 
 | Projeto | Link principal | Artigo no Medium |
 |---|---|---|
-| **SISREQ — Sistema de Regularização Quilombola** | [Sistema](https://bit.ly/3TYkkUu) | [Artigo 1](https://bit.ly/3NgthVh) · [Artigo 2](https://bit.ly/4eDCyD2) |
+| **SISREQ — Sistema de Regularização Quilombola** | [Repositório](https://github.com/michaeljmcardoso/Projeto-SISREQ-Web-2.0) | [Artigo 1](https://bit.ly/3NgthVh) · [Artigo 2](https://bit.ly/4eDCyD2) |
+| **Dashboard Quilombola** | [Repositório](https://github.com/michaeljmcardoso/sistema_quilombolas_ma) |
+| **SisCOS** | [Repositório](https://github.com/michaeljmcardoso/controle-ordem-de-servico) |
+| **Quilombo Viagens** | [Repositório](https://github.com/michaeljmcardoso/Quilombo-Viagens-master) |
 | **Analisando os Dados do Airbnb — Santiago del Chile** | [Projeto](http://bit.ly/3tNeZlc) | [Artigo](http://bit.ly/3i4w5IL) |
 | **Controle da Empresa: analisando dados com Pandas** | [Projeto](https://bit.ly/3Z1bmGI) | [Artigo](https://bit.ly/3vvWjXY) |
 | **Visualização de Dados: Gráfico de Waffle** | [Projeto](https://bit.ly/3LaXlkL) | *[link pendente]* |
