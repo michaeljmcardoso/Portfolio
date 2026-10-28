@@ -32,7 +32,7 @@ Hoje, busco aprofundar competências em Ciência de Dados e Inteligência Artifi
 
 | Projeto | Link principal | Artigo no Medium |
 |---|---|---|
-| **SISREQ — Sistema de Regularização Quilombola** | [Repositório](https://github.com/michaeljmcardoso/Projeto-SISREQ-Web-2.0) | [Artigo 1](https://bit.ly/3NgthVh) · [Artigo 2](https://bit.ly/4eDCyD2) |
+| **SISREQ — Sistema de Regularização Quilombola** | [Repositório](https://github.com/michaeljmcardoso/Projeto-SISREQ-Web-2.0) | [Artigo 1](https://medium.com/@mjcursodatascience/sisreq-sistema-de-regulariza%c3%a7%c3%a3o-quilombola-2adf4ce5fc46) · [Artigo 2](https://medium.com/@mjcursodatascience/desafios-e-oportunidades-na-regulariza%C3%A7%C3%A3o-quilombola-a-import%C3%A2ncia-de-um-sistema-integrado-de-8c1392792d5b) |
 | **Dashboard Quilombola** | [Repositório](https://github.com/michaeljmcardoso/sistema_quilombolas_ma) |
 | **SisCOS** | [Repositório](https://github.com/michaeljmcardoso/controle-ordem-de-servico) |
 | **Quilombo Viagens** | [Repositório](https://github.com/michaeljmcardoso/Quilombo-Viagens-master) |
