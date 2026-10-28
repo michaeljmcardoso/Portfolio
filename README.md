@@ -36,12 +36,12 @@ Hoje, busco aprofundar competências em Ciência de Dados e Inteligência Artifi
 | **Dashboard Quilombola** | [Repositório](https://github.com/michaeljmcardoso/sistema_quilombolas_ma) |
 | **SisCOS** | [Repositório](https://github.com/michaeljmcardoso/controle-ordem-de-servico) |
 | **Quilombo Viagens** | [Repositório](https://github.com/michaeljmcardoso/Quilombo-Viagens-master) |
-| **Analisando os Dados do Airbnb — Santiago del Chile** | [Projeto](http://bit.ly/3tNeZlc) | [Artigo](http://bit.ly/3i4w5IL) |
-| **Controle da Empresa: analisando dados com Pandas** | [Projeto](https://bit.ly/3Z1bmGI) | [Artigo](https://bit.ly/3vvWjXY) |
+| **Analisando os Dados do Airbnb — Santiago del Chile** | [Projeto](http://bit.ly/3tNeZlc) | [Artigo](https://medium.com/@mjcursodatascience/an%C3%A1lise-de-dados-do-airbnb-santiago-regi%C3%A3o-metropolitana-de-santiago-chile-1aada414a754) |
+| **Controle da Empresa: analisando dados com Pandas** | [Projeto](https://bit.ly/3Z1bmGI) | [Artigo](https://medium.com/@mjcursodatascience/controle-da-empresa-analisando-dados-com-pandas-92e5fb54dc21) |
 | **Visualização de Dados: Gráfico de Waffle** | [Projeto](https://bit.ly/3LaXlkL) | *[link pendente]* |
-| **Interfaces entre Antropologia e Ciência de Dados** | [Projeto](http://bit.ly/3GXNhZe) | [Artigo](http://bit.ly/3Wztdlx) |
-| **Quando usar e como plotar um Histograma usando Python** | [Projeto](http://bit.ly/3wmjk02) | [Artigo](http://bit.ly/3JaR20h) |
+| **Interfaces entre Antropologia e Ciência de Dados** | [Projeto](http://bit.ly/3GXNhZe) | [Artigo](https://medium.com/@mjcursodatascience/interfaces-entre-antropologia-e-ci%C3%AAncia-de-dados-abfa50e238bf) |
+| **Quando usar e como plotar um Histograma usando Python** | [Projeto](http://bit.ly/3wmjk02) | [Artigo](https://medium.com/@mjcursodatascience/when-to-use-and-how-to-plot-a-histogram-using-the-python-language-8cad9b00013d) |
 | **Como Criar um DataFrame com Pandas** | [Projeto](https://github.com/michaeljmcardoso/DataFrame) | — |
-| **Resenha \| Data Science do Zero: noções fundamentais com Python** | [Resenha](https://bit.ly/3w2ADmC) | [Artigo](http://bit.ly/3Moz75z) |
+| **Resenha \| Data Science do Zero: noções fundamentais com Python** | [Resenha](https://bit.ly/3w2ADmC) | [Artigo](https://medium.com/@mjcursodatascience/resenha-do-livro-data-science-do-zero-no%C3%A7%C3%B5es-fundamentais-com-python-joel-grus-75282f6fbc9a) |
 
 ---
